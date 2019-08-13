@@ -25,6 +25,12 @@ public class ProbandoRepo {
             System.out.println("cantidad proporcionada ");
         }
         System.out.println("probandorepo.ProbandoRepo.main()");
+        
+         System.out.println("Ejemplo de integracion");
     }
+    
+   
+    
+   
     
 }
