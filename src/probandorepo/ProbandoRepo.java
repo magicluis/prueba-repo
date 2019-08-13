@@ -29,6 +29,7 @@ public class ProbandoRepo {
          System.out.println("Ejemplo de integracion");
          
          System.out.println("Conociendo plataforma virtual ");
+         System.out.println("Ejemplo de verificacion ");
     }
     
    
