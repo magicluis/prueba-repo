@@ -27,6 +27,8 @@ public class ProbandoRepo {
         System.out.println("probandorepo.ProbandoRepo.main()");
         
          System.out.println("Ejemplo de integracion");
+         
+         System.out.println("Conociendo plataforma virtual ");
     }
     
    
