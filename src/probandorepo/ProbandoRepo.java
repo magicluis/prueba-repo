@@ -30,6 +30,7 @@ public class ProbandoRepo {
          
          System.out.println("Conociendo plataforma virtual ");
          System.out.println("Ejemplo de verificacion ");
+         System.out.println("Hola clase 2");
     }
     
    
