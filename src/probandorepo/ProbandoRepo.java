@@ -24,6 +24,7 @@ public class ProbandoRepo {
         for(int i=0;i<20;i++){
             System.out.println("cantidad proporcionada ");
         }
+        System.out.println("probandorepo.ProbandoRepo.main()");
     }
     
 }
