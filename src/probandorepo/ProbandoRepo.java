@@ -32,6 +32,7 @@ public class ProbandoRepo {
          System.out.println("Ejemplo de verificacion ");
          System.out.println("Hola clase 2");
          System.out.println("Prueba de clase 3");
+         System.out.println("Esta es otra prueba");
     }
     
    
