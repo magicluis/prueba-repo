@@ -21,18 +21,8 @@ public class ProbandoRepo {
             System.out.println("Este es un ejemplo de ejecucion de codigo "+i);
             
         }
-        for(int i=0;i<20;i++){
-            System.out.println("cantidad proporcionada ");
-        }
-        System.out.println("probandorepo.ProbandoRepo.main()");
         
-         System.out.println("Ejemplo de integracion");
-         
-         System.out.println("Conociendo plataforma virtual ");
-         System.out.println("Ejemplo de verificacion ");
-         System.out.println("Hola clase 2");
-         System.out.println("Prueba de clase 3");
-         System.out.println("Esta es otra prueba");
+        System.out.println("Ejemplo de verificacion ");
     }
     
    
