@@ -19,6 +19,10 @@ public class ProbandoRepo {
         System.out.println("Ejemplo de variaciones de datos ");
         for(int i=0;i<12;i++){
             System.out.println("Este es un ejemplo de ejecucion de codigo "+i);
+            
+        }
+        for(int i=0;i<20;i++){
+            System.out.println("cantidad proporcionada ");
         }
     }
     
